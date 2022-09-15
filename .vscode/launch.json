@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FixMe",
+            "request": "launch",
+            "mainClass": "school.mjc.stage0.loops.task4.FixMe",
+            "projectName": "conditions"
+        },
+        {
+            "name": "Listen for Xdebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9003
+        }
+    ]
+}
